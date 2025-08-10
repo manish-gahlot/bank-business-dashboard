@@ -41,3 +41,13 @@ For full analysis results, see **`bank dashboard.pdf`**.
 1. Download or clone this repository:
    ```bash
    git clone https://github.com/manish-gahlot/bank-business-dashboard.git
+2. Open bank dashboard.pbix in Power BI Desktop.
+3. If needed, reconnect the dataset Banking.csv (ensure correct file path).
+4. Use the interactive visuals to explore trends and KPIs.
+
+---
+
+## 📜 License
+This project is for educational and portfolio purposes.
+Author: Manish Gahlot
+GitHub: github.com/manish-gahlot
