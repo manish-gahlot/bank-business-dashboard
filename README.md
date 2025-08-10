@@ -47,6 +47,14 @@ For full analysis results, see **`bank dashboard.pdf`**.
 
 ---
 
+## 👤 Author
+
+**Manish Gahlot**  
+_Data Science & Machine Learning Enthusiast_ 
+GitHub: https://github.com/manish-gahlot
+
+---
+
 ## 📜 License
 This project is for educational and portfolio purposes.
 Author: Manish Gahlot
