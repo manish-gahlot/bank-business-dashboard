@@ -40,4 +40,4 @@ For full analysis results, see **`bank dashboard.pdf`**.
 ## 🚀 How to Use
 1. Download or clone this repository:
    ```bash
-   git clone https://github.com/your-username/bank-business-dashboard.git
+   git clone https://github.com/manish-gahlot/bank-business-dashboard.git
